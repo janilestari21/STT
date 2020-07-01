@@ -1,27 +1,26 @@
 {
     "dir": "ltr",
     "lang": "Indonesian",
-    "name": "Share Trick and Tips",
-    "short_name": "Share Trick and",
-    "display": "standalone",
-    "start_url": "https://nywatoisme.blogspot.com/",
+    "name": "Serupedians",
+    "short_name": "Serupedians",
+    "display": "fullscreen",
+    "start_url": "https://serupedians.blogspot.com/",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "Share your tricks and tips for all !!!",
-    "orientation": "landscape",
+    "description": "Serupedian adalah media yang berbagi info dan artikel tentang Gaya Hidup, Tips, Viral, Unik, Trending, Resep Sehat untuk anda.",
+    "orientation": "any",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "https://cdn.cgrembang.com/STT/book.png",
-            "type": "image/png",
-            "sizes": "512x512"
+            "src": "https://serupedians.blogspot.com/favicon.ico",
+            "sizes": "16x16"
         },
         {
-            "src": "https://nywatoisme.blogspot.com/favicon.ico",
+            "src": "https://serupedians.blogspot.com/favicon.ico",
             "sizes": "16x16"
         }
     ],
-    "url": "https://nywatoisme.blogspot.com/",
+    "url": "https://serupedians.blogspot.com/",
     "screenshots": []
 }
